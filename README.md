@@ -1,4 +1,4 @@
-# Baseball Stats Correlation Matrix
+# Baseball Stats Correlation Matrix Heatmap
 Shows the correlation between a number of statistics, which can be useful to see the relationship between each one. 
 
 ## Description
